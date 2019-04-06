@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Mp4toMp3"
         mc:Ignorable="d"
-        Title="Mp4 to Mp3" Height="268" Width="435" ResizeMode="NoResize">
+        Title="Mp4 to Mp3" Height="268" Width="435" ResizeMode="CanMinimize">
     <Grid Background="#FF2D2D30">
         <Button x:Name="btnFilePath" Content="Open" HorizontalAlignment="Left" Margin="335,10,0,0" VerticalAlignment="Top" Width="75" Click="BtnFilePath_Click"/>
         <Button x:Name="btnSavePath" Content="Save" HorizontalAlignment="Left" Margin="335,96,0,0" VerticalAlignment="Top" Width="75" Click="BtnSavePath_Click"/>
